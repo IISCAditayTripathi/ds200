@@ -58,7 +58,7 @@ plt.savefig('scatter_plot_water_charges_surat.png')
 
 fig, ax = plt.subplots()
 ax.boxplot(all_points, labels=x, patch_artist=True, meanline=True, showfliers=False)
-ax.set_title('Water Meter Charges collection by Surat Municipal Corporation per month starting Feb 2017', fontsize=10, pad=20)
+ax.set_title('Water Meter Charges collection by Surat Municipal Corporation per month starting Feb 2017', fontsize=20, pad=20)
 ax.set_ylabel('Water charges per month')
 ax.set_xlabel('Month number starting from Feb. 2017')
 fig.set_size_inches(16.5, 8.5)
