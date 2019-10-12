@@ -19,4 +19,4 @@ These plots show the average water meter charges in Surat. Baring few months, th
 
 ![alt text](https://github.com/IISCAditayTripathi/ds200/blob/master/box_plot_water_charges_surat.png)
 
-Box plot shows the distribution of charges per month. As we can see, there is a lot of variation in minimum, maximum charges per month. Also the data distribution per month is significantly varying across the months.
+Box plot shows the distribution of charges per month. As we can see, there is a lot of variation in minimum, maximum charges per month. Also the data distribution per month is significantly varying across each months.
