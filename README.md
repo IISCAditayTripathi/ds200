@@ -1,6 +1,9 @@
 # Water Meter Charges collection analysis by Surat MC
 
-The dataset **water_charges_surat.json** is taken from [https://data.gov.in/](https://data.gov.in/resources-from-webservices#page=1). It contains the details of Water Meter Charges collection by **Surat Municipal Corporation** from April 2015 onward.
+The dataset **water_charges_surat.json** is taken from [https://data.gov.in/](https://data.gov.in/resources-from-webservices#page=1).
+ 
+- [Water Charges Collection by Surat Municipal Corporation from April 2015 onward (daily)](https://data.gov.in/resources-from-web-service/4206781) 
+It contains the details of Water Meter Charges collection by **Surat Municipal Corporation** from April 2015 onward.
 
 # Dataset details
 
